@@ -29,7 +29,6 @@ This commands includes
 ## Output
 ![Screenshot 2025-04-17 142117](https://github.com/user-attachments/assets/6db6c5e6-5736-4a97-8b66-1608b3c4eb93)
 
-![Screenshot 2025-04-17 205319](https://github.com/user-attachments/assets/10e85437-2dc2-4743-87e2-f7f2c60df55f)
 
 
 ## Result
